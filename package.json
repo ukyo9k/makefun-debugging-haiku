@@ -1,0 +1,1 @@
+{"description":"One 5-7-5 haiku about debugging, written to /output/entry.txt for the make.fun bounty 'Seventeen Syllables of Debugging'.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"makefun-debugging-haiku","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
